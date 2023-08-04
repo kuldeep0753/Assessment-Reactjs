@@ -72,6 +72,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 //-----------------------------------------------------------------------------------------------
   ###                                                                     Blog Description
 
+ ` Build a Blog application built with React and Redux. Use the REST API mentioned below
+User stories:
+• As a user, I should be able to view blog posts
+• As a user, I should be able to view my blog posts
+• As a user, I should be able to view comments of blog posts
+• As a user, I should be able to create a blog post
+• As a user, I should be able to comment on blog posts`
+
 ###                                                                Blog Registration page
 
 <img width="956" alt="register" src="https://github.com/kuldeep0753/Assessment-Reactjs/assets/84613580/be917a88-0af5-4e52-b45b-f94fa85b432b">
