@@ -6,6 +6,7 @@ import Likes from "../auth/Likes";
 import { useAuthState } from "react-firebase-hooks/auth";
 import { auth } from "../firebaseConfig";
 import "./BlogPage.css";
+import Comment from "./Comment";
 //Article
 const BlogPage = () => {
   const [user] = useAuthState(auth);
@@ -48,6 +49,7 @@ const BlogPage = () => {
            
 
             {/* Comments */}
+            <Comment id={article.id}/>
           </div>
         </div>
       )}
