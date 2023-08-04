@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+//-----------------------------------------------------------------------------------------------
+  ###                                                                     Blog Description
+
+###                                                                Blog Registration page
+
+<img width="956" alt="register" src="https://github.com/kuldeep0753/Assessment-Reactjs/assets/84613580/be917a88-0af5-4e52-b45b-f94fa85b432b">
+
+###                                                                 Blog Login Page
+
+<img width="956" alt="login" src="https://github.com/kuldeep0753/Assessment-Reactjs/assets/84613580/6af63f7b-4037-41a0-a6a8-c26b99cde7fa">
+
+###                                                                   Blog Post 
+
+<img width="487" alt="post blog" src="https://github.com/kuldeep0753/Assessment-Reactjs/assets/84613580/db49a502-91f7-41df-a0f0-7f329fde0b11">
+
+###                                                                   Blog Main Page
+
+<img width="940" alt="main page" src="https://github.com/kuldeep0753/Assessment-Reactjs/assets/84613580/37e0f239-5a75-4040-859b-5e9f42333f2b">
+
+###                                                                  Blog Comment Page
+
+<img width="943" alt="blog-comments" src="https://github.com/kuldeep0753/Assessment-Reactjs/assets/84613580/29e17a72-0e03-4724-876b-34d9d8de9f20">
