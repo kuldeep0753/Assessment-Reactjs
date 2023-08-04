@@ -3,10 +3,11 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
 //here we import bootstrap.css files
-import "bootstrap/dist/css/bootstrap.css";
+// import "bootstrap/dist/css/bootstrap.css";
 //here we import toastify.css file
 import "react-toastify/dist/ReactToastify.css";
 import { ToastContainer } from "react-toastify";
+import "font-awesome/css/font-awesome.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(

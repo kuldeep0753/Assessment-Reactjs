@@ -1,0 +1,16 @@
+ Authentication
+ Firestore Database:store data in doc format
+ real time Database:store data in tree structure
+
+ Storage
+
+ Connecting firebase app and setup:
+  -npm i firebase   (v=10.1)
+  -create one file  firebase.js
+    -import initializeApp from "firebase/app"
+    -const firebaseConfig={}
+    -export initializeApp(firebaseConfig)
+
+App.js:
+  -import getDatabase from "firebase/database"
+  -

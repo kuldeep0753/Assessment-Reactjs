@@ -1,0 +1,28 @@
+.active{
+    color:red
+}
+
+.user-register{
+    margin-top: 10px;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-weight: 600;
+    color: rgb(46, 6, 65);
+    border: 1px solid brown;
+    margin-bottom: 20px;
+    background: yellowgreen;
+}
+.user-email{
+    margin-right: 60px;
+}
+.register-button{
+    width: 100px;
+    height: 36px;
+    border-radius: 13px;
+    background: blueviolet;
+    color: aliceblue;
+    font-size: large;
+    font-weight: 500;
+}

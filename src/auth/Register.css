@@ -1,0 +1,18 @@
+.form{
+    /* background:rgb(171, 231, 226); */
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.main-form{
+    background: darkgrey;
+    padding: 96px;
+}
+
+label{
+    font-size: larger;
+}
+input{
+    width: 263px;
+    height: 25px;
+}
